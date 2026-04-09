@@ -34,10 +34,10 @@
 ## Contact
 
 <div align="center">
-  <a href="www.linkedin.com/in/sascha-s-88b5022b9" target="_blank">
+  <a href="www.linkedin.com/in/sascha-s-88b5022b9" target="_blank" style="text-decoration:none;">
     <img src="./assets/social_icons/linkedin_64.png" width="32" height="32" alt="linkedin logo"  />
   </a>
-  <a href="https://discordapp.com/users/equinox_77_" target="_blank">
+  <a href="https://discordapp.com/users/equinox_77_" target="_blank" style="text-decoration:none;">
     <img src="./assets/social_icons/discord_64.png" width="32" height="32" alt="discord logo"  />
   </a>
 </div>
