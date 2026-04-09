@@ -2,10 +2,10 @@
   <img width="100%" src="https://github.com/SaschaSchmitt-Dev/SaschaSchmitt-Dev/blob/main/assets/icons/wave-header-final.svg"  />
 </div>
 
-# Preferred Tech Stack
+## Preferred Tech Stack
 
 <div align="center">
-  <h2> Frontend</h2>
+  <h3> Frontend</h3>
   <p>
     <img src="./assets/skill_icons/html.png" height="32" alt="HTML" style="margin-right:8px;" />
     <img src="./assets/skill_icons/CSS.png" height="32" alt="CSS" style="margin-right:8px;" />
