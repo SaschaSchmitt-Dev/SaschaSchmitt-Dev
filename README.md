@@ -18,7 +18,6 @@
   <p>
     <img src="./assets/skill_icons/git.png" height="32" alt="Git" />
     <img src="./assets/skill_icons/Figma.png" height="32" alt="Figma" />
-    <img src="./assets/skill_icons/Jira.png" height="32" alt="Jira" />
   </p>
 </div>
 
