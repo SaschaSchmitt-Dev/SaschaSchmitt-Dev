@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/SaschaSchmitt-Dev/SaschaSchmitt-Dev/blob/main/readme-picture.png"  />
+  <img height="200" src="https://github.com/SaschaSchmitt-Dev/SaschaSchmitt-Dev/blob/main/readme-header.png"  />
 </div>
 
 ###
