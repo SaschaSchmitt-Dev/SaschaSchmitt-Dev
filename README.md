@@ -2,6 +2,7 @@
   <img width="100%" src="https://github.com/SaschaSchmitt-Dev/SaschaSchmitt-Dev/blob/main/assets/icons/wave-header-final.svg"  />
 </div>
 
+###
 ## Preferred Tech Stack
 
 <div align="center">
@@ -13,7 +14,7 @@
 </div>
 
 <div align="center">
-  <h2> Dev-Tools</h2>
+  <h3> Dev-Tools</h3>
   <p>
     <img src="./assets/skill_icons/git.png" height="32" alt="Git" />
     <img src="./assets/skill_icons/Figma.png" height="32" alt="Figma" />
@@ -22,6 +23,7 @@
 </div>
 
 ###
+## Pacman!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaschaSchmitt-Dev/SaschaSchmitt-Dev/output/pacman-contribution-graph-dark.svg">
@@ -30,6 +32,7 @@
 </picture>
 
 ###
+## Contact
 
 <div align="center">
   <a href="www.linkedin.com/in/sascha-s-88b5022b9" target="_blank">
