@@ -35,10 +35,10 @@
 
 <div align="center">
   <a href="www.linkedin.com/in/sascha-s-88b5022b9" target="_blank">
-    <img src="./assets/social_icons/linkedin_64.png" width="52" height="40" alt="linkedin logo"  />
+    <img src="./assets/social_icons/linkedin_64.png" width="32" height="32" alt="linkedin logo"  />
   </a>
   <a href="https://discordapp.com/users/equinox_77_" target="_blank">
-    <img src="./assets/social_icons/diacord_64.png" width="52" height="40" alt="discord logo"  />
+    <img src="./assets/social_icons/diacord_64.png" width="32" height="32" alt="discord logo"  />
   </a>
 </div>
 
