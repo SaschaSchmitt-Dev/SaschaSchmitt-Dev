@@ -2,18 +2,23 @@
   <img width="100%" src="https://github.com/SaschaSchmitt-Dev/SaschaSchmitt-Dev/blob/main/assets/icons/wave-header-final.svg"  />
 </div>
 
-###
+<div align="center">
+## Preferred Tech Stack
+
+  <h3> Frontend</h3>
+  <p>
+    <img src="./assets/skill_icons/html.png" height="32" alt="HTML" style="margin-right:8px;" />
+    <img src="./assets/skill_icons/CSS.png" height="32" alt="CSS" style="margin-right:8px;" />
+  </p>
+</div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <h3> Dev-Tools</h3>
+  <p>
+    <img src="./assets/skill_icons/git.png" height="32" alt="Git" />
+    <img src="./assets/skill_icons/Figma.png" height="32" alt="Figma" />
+    <img src="./assets/skill_icons/Jira.png" height="32" alt="Jira" />
+  </p>
 </div>
 
 ###
