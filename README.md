@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://github.com/SaschaSchmitt-Dev/SaschaSchmitt-Dev/blob/main/assets/icons/header.svg"  />
+  <img width="100%" src="https://github.com/SaschaSchmitt-Dev/SaschaSchmitt-Dev/blob/main/assets/icons/wave-header-final.svg"  />
 </div>
 
 ###
