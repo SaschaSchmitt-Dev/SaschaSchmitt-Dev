@@ -38,7 +38,7 @@
     <img src="./assets/social_icons/linkedin_64.png" width="32" height="32" alt="linkedin logo"  />
   </a>
   <a href="https://discordapp.com/users/equinox_77_" target="_blank">
-    <img src="./assets/social_icons/diacord_64.png" width="32" height="32" alt="discord logo"  />
+    <img src="./assets/social_icons/discord_64.png" width="32" height="32" alt="discord logo"  />
   </a>
 </div>
 
