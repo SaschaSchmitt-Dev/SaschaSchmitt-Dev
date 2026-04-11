@@ -3,6 +3,18 @@
 </div>
 
 ###
+## About me
+<p>Hi, I'm Sascha 👋</p>
+
+<p>💻 Learning Frontend Development</p>
+<p>📚 HTML / CSS / JavaScript</p>
+<p>🚀 Next step: Fullstack Development</p> 
+<p>🔐 Long-term goal: DevSecOps</p>  
+
+<p>✨ Creating bugs since 2026</p>
+<p>📍 Germany</p>
+
+###
 ## Preferred Tech Stack
 
 <div align="left">
