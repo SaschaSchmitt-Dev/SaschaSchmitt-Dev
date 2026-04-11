@@ -4,15 +4,10 @@
 
 ###
 ## About me
+
 <p>Hi, I'm Sascha 👋</p>
 
-<p>💻 Learning Frontend Development</p>
-<p>📚 HTML / CSS / JavaScript</p>
-<p>🚀 Next step: Fullstack Development</p> 
-<p>🔐 Long-term goal: DevSecOps</p>  
-
-<p>✨ Creating bugs since 2026</p>
-<p>📍 Germany</p>
+<p>💻 Learning Frontend Development<br>📚 Currently learning HTML & CSS<br>🚀 Next step: Fullstack Development<br>🔐 Long-term goal: DevSecOps<br>✨ Creating bugs since 2026<br>📍 Germany</p>
 
 ###
 ## Preferred Tech Stack
