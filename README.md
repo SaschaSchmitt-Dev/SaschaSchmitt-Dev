@@ -16,15 +16,17 @@
   <h3> Frontend</h3>
   <p>
     <img src="./assets/skill_icons/html.png" height="32" alt="HTML" style="margin-right:8px;" />
-    <img src="./assets/skill_icons/CSS.png" height="32" alt="CSS" style="margin-right:8px;" />
+    <img src="./assets/skill_icons/css.png" height="32" alt="CSS" style="margin-right:8px;" />
+    <img src="./assets/skill_icons/js.png" height="32" alt="JS" style="margin-right:8px;" />
   </p>
 </div>
 
 <div align="left">
   <h3> Dev-Tools</h3>
   <p>
+    <img src="./assets/skill_icons/vscode.jpg" height="32" alt="VS Code" />
     <img src="./assets/skill_icons/git.png" height="32" alt="Git" />
-    <img src="./assets/skill_icons/Figma.png" height="32" alt="Figma" />
+    <img src="./assets/skill_icons/figma.png" height="32" alt="Figma" />
   </p>
 </div>
 
