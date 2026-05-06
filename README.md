@@ -24,7 +24,7 @@
 <div align="left">
   <h3> Dev-Tools</h3>
   <p>
-    <img src="./assets/skill_icons/vscode.jpg" height="32" alt="VS Code" />
+    <img src="./assets/skill_icons/vscode.png" height="32" alt="VS Code" />
     <img src="./assets/skill_icons/git.png" height="32" alt="Git" />
     <img src="./assets/skill_icons/figma.png" height="32" alt="Figma" />
   </p>
