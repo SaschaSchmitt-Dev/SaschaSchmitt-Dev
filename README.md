@@ -47,7 +47,7 @@
     <img src="./assets/social_icons/linkedin_64.png" width="32" height="32" alt="linkedin logo"  style="margin-right:8px;" />
   </a>
   <a href="https://discordapp.com/users/equinox_77_" target="_blank" style="text-decoration: none">
-    <img src="./assets/social_icons/discord_64.png" width="32" height="32 alt="discord logo"  />
+    <img src="./assets/social_icons/discord_64.png" width="32" height="32" alt="discord logo"  />
   </a>
 </div>
 
